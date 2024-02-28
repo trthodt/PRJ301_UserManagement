@@ -1,0 +1,31 @@
+/* Reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.footer{
+    margin-top: 20px;
+    background-color: #f8f6f0;
+    height: 140px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info div {
+    margin: 20px 0px;
+}
+
+.social-icon {
+    text-align: center;
+}

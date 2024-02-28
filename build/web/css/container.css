@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    min-height: 600px;
+    font-size: 20px;
+}
+
+.container{
+    margin-top: 46px;
+    width: 70%;
+}
+
+.main input{
+    font-size: 20px;
+}

@@ -1,0 +1,39 @@
+
+
+.product-container .product{
+    display: inline-block;
+    width: 30%;
+    background-color: rgb(227, 227, 227);
+    margin: 10px;
+    border-radius: 2%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.product img{
+    width: 100%;
+    border-radius: 2%;
+}
+
+.product .pro-info {
+    margin: 10px;
+}
+
+.product .pro-info input{
+    width: 100%;
+}
+
+.container>h2 {
+    margin: 20px 0px;
+}
+
+.container>h5 {
+    color: red;
+}
+
+.pro-info select {
+    margin-bottom: 10px;
+}
+
+.pro-info .cost {
+    color: red;
+}
